@@ -1,0 +1,10 @@
+name: SkyBlockUI
+version: 1.0.0
+main: electrogames\Main
+api: 3.0.0
+softdepend:
+- FormAPI
+author: Electro Games
+commands:
+ fui:
+  description: "SkyBlockUI"
