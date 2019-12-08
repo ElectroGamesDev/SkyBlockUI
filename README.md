@@ -6,4 +6,4 @@ SubCommands:
 
 /skyblockui
 
-Make sure to subscribe to Electro Games on 
+Make sure to subscribe to Electro Games on YouTube
