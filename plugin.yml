@@ -1,7 +1,7 @@
 name: SkyBlockUI
 version: 1.0.0
 main: electrogames\Main
-api: 3.0.0
+api: 3.1.8
 softdepend:
 - FormAPI
 author: Electro Games
